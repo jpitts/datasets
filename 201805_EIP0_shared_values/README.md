@@ -16,11 +16,15 @@ EIP0 Shared Values
 
 If you are reading this, your voice matters to the future guidance of Ethereum. 
 
-The intent behind this survey is to create an open data-set of individual perspectives to help inform the Shared Values of Ethereum. Establishing cultural guidelines will help inform new community members and serve as our collective compass moving forward into the future.
+The intent behind this survey is to create an open data-set of individual perspectives to help inform 
+the Shared Values of Ethereum. Establishing cultural guidelines will help inform new community 
+members and serve as our collective compass moving forward into the future.
 
-No question is required, anonymity is optional, so please submit even partial responses, any information you can provide is valid. 
+No question is required, anonymity is optional, so please submit even partial responses, any 
+information you can provide is valid. 
 
-Please submit your response before June 1st, so we can present the findings at the next Ethereum Bangkok meetup!
+Please submit your response before June 1st, so we can present the findings at the next Ethereum 
+Bangkok meetup!
 
 For further discussion:
 https://gitter.im/ethereum/governance
@@ -33,11 +37,15 @@ With love,
 Jarrad
 
 
-Besides Vitalik, who are 3 or more people in the Ethereum Community that make good role models? What do you admire in them?
+Besides Vitalik, who are 3 or more people in the Ethereum 
+Community that make good role models? What do you admire in 
+them?
 
 [Your answer     ]
 
-What are 3 or more organizations, communities, social movements and/or ideologies that are (loosely) related to Ethereum?
+What are 3 or more organizations, communities, social 
+movements and/or ideologies that are (loosely) related to 
+Ethereum?
 
 [Your answer     ]
 
@@ -45,7 +53,8 @@ What values does/should Ethereum embody? Why?
 
 [Your answer     ]
 
-What originally attracted you to Ethereum? Why are you still here?
+What originally attracted you to Ethereum? Why are you still 
+here?
 
 [Your answer     ]
 
@@ -53,7 +62,8 @@ What is your happiest memory related to Ethereum? Why?
 
 [Your answer     ]
 
-Is there anything in Ethereum (past/present) that frustrated you, or could have been done better?
+Is there anything in Ethereum (past/present) that frustrated you, 
+or could have been done better?
 
 [Your answer     ]
 
@@ -65,7 +75,8 @@ Is there anything we 'failed' or are 'failing' at?
 
 [Your answer     ]
 
-In your mind, what would make a good Ethereum community member?
+In your mind, what would make a good Ethereum community 
+member?
 
 [Your answer     ]
 
@@ -77,7 +88,8 @@ What kind of future do you envision?
 
 [Your answer     ]
 
-Are there any fears you hold that you think are relevant to Ethereum?
+Are there any fears you hold that you think are relevant to 
+Ethereum?
 
 [Your answer     ]
 
